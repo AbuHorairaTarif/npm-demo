@@ -1,0 +1,19 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "NPM Management",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "live-server"
+  },
+  "author": "Abu Horaira Tarif",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "underscore": "^1.10.2"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
